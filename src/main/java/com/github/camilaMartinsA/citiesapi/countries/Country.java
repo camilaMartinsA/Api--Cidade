@@ -1,4 +1,4 @@
-package com.github.camilaMartinsA.citiesapi;
+package com.github.camilaMartinsA.citiesapi.countries;
 
 import  javax.persistence.Column ;
 import  javax.persistence.Entity ;
