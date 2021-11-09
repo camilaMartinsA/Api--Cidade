@@ -1,6 +1,6 @@
-package com.github.andrelugomes.staties.entities;
+package com.github.camilaMartinsA.staties.entities;
 
-import com.github.andrelugomes.countries.entities.Country;
+import com.github.camilaMartinsA.countries.entities.Country;
 import com.vladmihalcea.hibernate.type.json.JsonBinaryType;
 import java.util.List;
 import javax.persistence.Basic;

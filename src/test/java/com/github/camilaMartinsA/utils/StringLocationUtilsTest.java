@@ -1,4 +1,4 @@
-package com.github.andrelugomes.utils;
+package com.github.camilaMartinsA.utils;
 
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;

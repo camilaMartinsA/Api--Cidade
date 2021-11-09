@@ -1,4 +1,4 @@
-package com.github.andrelugomes.countries.entities;
+package com.github.camilaMartinsA.countries.entities;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

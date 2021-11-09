@@ -1,7 +1,7 @@
-package com.github.andrelugomes.countries.resources;
+package com.github.camilaMartinsA.countries.resources;
 
-import com.github.andrelugomes.countries.entities.Country;
-import com.github.andrelugomes.countries.repositories.CountryRepository;
+import com.github.camilaMartinsA.countries.entities.Country;
+import com.github.camilaMartinsA.countries.repositories.CountryRepository;
 import java.util.List;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

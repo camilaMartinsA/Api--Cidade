@@ -1,4 +1,4 @@
-package com.github.andrelugomes.cities.entities;
+package com.github.camilaMartinsA.cities.entities;
 
 import java.io.Serializable;
 import java.sql.PreparedStatement;

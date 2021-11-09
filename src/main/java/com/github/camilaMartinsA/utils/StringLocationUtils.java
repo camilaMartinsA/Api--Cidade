@@ -1,4 +1,4 @@
-package com.github.andrelugomes.utils;
+package com.github.camilaMartinsA.utils;
 
 public class StringLocationUtils {
   public static Double[] transform(String geolocation) {
