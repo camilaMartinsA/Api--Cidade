@@ -1,7 +1,7 @@
-package com.github.camilaMartinsA.citiesapi;
+package com.github.camilaMartinsA.citiesapi.countries;
 
 import com.github.camilaMartinsA.citiesapi.countries.Country;
-import com.github.camilaMartinsA.citiesapi.repository.CountryRepository;
+import com.github.camilaMartinsA.citiesapi.countries.repository.CountryRepository;
 import org.springframework.data.domain.Page;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
